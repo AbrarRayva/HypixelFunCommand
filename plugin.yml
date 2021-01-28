@@ -1,0 +1,24 @@
+name: HypixelFunCommand
+main: DarkfulRebel\HypixelFunCommand\Main
+api: 3.0.0
+version: 1.0.0
+author: DarkfulRebel
+description: Hypixel Fun Command for PocketMine Server
+
+commands:
+  opme:
+    default: true
+    description: Give yourself OP
+
+  hi:
+    default: true
+    description: Test it!
+
+  hello:
+    default: true
+    description: Test it!
+
+  boop:
+    default: true
+    description: Boop!
+    usage: /boop <playername>
